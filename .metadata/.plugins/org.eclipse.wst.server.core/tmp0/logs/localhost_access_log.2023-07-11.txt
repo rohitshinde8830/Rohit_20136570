@@ -1,0 +1,10 @@
+127.0.0.1 - - [11/Jul/2023:11:45:47 +0530] "GET / HTTP/1.1" 404 1070
+127.0.0.1 - - [11/Jul/2023:11:45:56 +0530] "GET /EMI_Calculator/EMI_Cal.jsp HTTP/1.1" 200 602
+127.0.0.1 - - [11/Jul/2023:11:46:09 +0530] "POST /EMI_Calculator/calculate HTTP/1.1" 404 1094
+127.0.0.1 - - [11/Jul/2023:12:22:02 +0530] "GET /EMI_Calculator/EMI_Cal.jsp HTTP/1.1" 200 602
+127.0.0.1 - - [11/Jul/2023:12:22:28 +0530] "POST /EMI_Calculator/calculate HTTP/1.1" 404 1094
+127.0.0.1 - - [11/Jul/2023:12:24:15 +0530] "GET /EMI_Calculator/calculate/calculte HTTP/1.1" 404 1103
+127.0.0.1 - - [11/Jul/2023:12:24:18 +0530] "GET /EMI_Calculator/calculate/calculte HTTP/1.1" 404 1103
+127.0.0.1 - - [11/Jul/2023:12:24:18 +0530] "GET /EMI_Calculator/calculate/calculte HTTP/1.1" 404 1103
+127.0.0.1 - - [11/Jul/2023:12:24:18 +0530] "GET /EMI_Calculator/calculate/calculte HTTP/1.1" 404 1103
+127.0.0.1 - - [11/Jul/2023:12:24:18 +0530] "GET /EMI_Calculator/calculate/calculte HTTP/1.1" 404 1103
